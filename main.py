@@ -1,5 +1,5 @@
-# Don't Remove Credit Tg - @Tushar0125
-# Ask Doubt on telegram @Tushar0125
+# Don't Remove Credit Tg - @finaticgod
+# Ask Doubt on telegram @finaticgod
 
 import os
 import re
